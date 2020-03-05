@@ -1,0 +1,1 @@
+potenzadicalcolo: python "Potenza di calcolo.py"
